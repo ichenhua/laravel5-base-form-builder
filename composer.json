@@ -1,6 +1,6 @@
 {
-    "name": "chenhua/laravel-base-form-bulider",
-    "description": "Base Form builder for Laravel5",
+    "name": "Chenhua/laravel5-base-form-bulider",
+    "description": "Base Form builder for Laravel 5",
     "keywords": ["laravel", "chenhua", "overtrue"],
     "homepage": "https://github.com/Seldaek/monolog",
     "authors": [
@@ -14,7 +14,7 @@
     "require": {},
     "autoload": {
         "psr-4":{
-            "Ichenhua\\BaseFormBuilder\\": "src"
+            "Chenhua\\BaseFormBuilder\\": "src"
         }
     }
 }
