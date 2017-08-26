@@ -1,5 +1,5 @@
 <?php
-namespace Ichenhua\BaseFormBuilder\Component;
+namespace Chenhua\BaseFormBuilder\Component;
 
 class BaseSearch
 {

@@ -1,5 +1,5 @@
 <?php
-namespace Ichenhua\BaseFormBuilder\Facades;
+namespace Chenhua\BaseFormBuilder\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

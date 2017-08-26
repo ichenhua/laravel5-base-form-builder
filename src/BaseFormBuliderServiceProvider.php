@@ -1,6 +1,6 @@
 <?php
 
-namespace Ichenhua\BaseFormBuilder;
+namespace Chenhua\BaseFormBuilder;
 
 use Illuminate\Support\ServiceProvider;
 
