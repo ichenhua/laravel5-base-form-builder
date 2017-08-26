@@ -1,11 +1,16 @@
 {
     "name": "chenhua/laravel-base-form-bulider",
+    "description": "Base Form builder for Laravel5",
+    "keywords": ["laravel", "chenhua", "overtrue"],
+    "homepage": "https://github.com/Seldaek/monolog",
     "authors": [
         {
             "name": "chenhua",
             "email": "276004561@qq.com"
         }
     ],
+    "minimum-stability": "stable",
+    "license": "MIT",
     "require": {},
     "autoload": {
         "psr-4":{
