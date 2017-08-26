@@ -1,0 +1,15 @@
+{
+    "name": "chenhua/laravel-base-form-bulider",
+    "authors": [
+        {
+            "name": "chenhua",
+            "email": "276004561@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Ichenhua\\BaseFormBuilder\\": "src"
+        }
+    }
+}
